@@ -9,7 +9,7 @@
 ## Education:
 
 #### 1. [Universitas Ahmad Dahlan](https://uad.ac.id/id/) | Informatics Student | Yogyakarta `August'2020 - Present `
- #### 2. [SMA N 1 Tebas](http://sman1-tebas.mysch.id/) | MIPA | Tebas `2017-2020`
+ #### 2. [SMA N 1 Tebas](http://sman1-tebas.mysch.id/) | MIPA | Sambas `2017-2020`
    - 1st overall winner in MIPA majors
    - 2nd Place in the 15th HIMATIKA-FMIPA UNTAN COMPETITION `2019`
 ### Languages and Tools:
